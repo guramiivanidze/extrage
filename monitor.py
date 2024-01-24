@@ -20,9 +20,9 @@ id = product['id']
 def send_email (param):
     if param == 'ok':
         # Email configuration
-        sender_email = "gurami.ivanidze.96@gmail.com"
-        sender_password = "ParoliSkullbusher12"
-        receiver_email = "gurami151097@gmail.com"
+        sender_email = ""
+        sender_password = ""
+        receiver_email = ""
         subject = f"Its Your chance To buy {productOriginalSlug} "
         message = f''' 
         time to buy !!!!!
